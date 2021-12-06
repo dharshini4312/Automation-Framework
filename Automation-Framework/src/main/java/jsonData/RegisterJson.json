@@ -1,0 +1,16 @@
+
+	[
+	
+		{
+			"FirstName"   : "arun",
+			"LastName"    : "motoori",
+			"Phone"       : "12345678",
+			"Email"		  : "arun.motoori@yahoo.co.in",
+			"Password" 	  : "SeleniumTester$",
+  			"ConPassword" : "SeleniumTester$"
+  		}
+  		
+  	]		
+ 
+ 
+  
